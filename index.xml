@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Sivaram Sajeev</title>
+        <link>https://ssajeev.tech/</link>
+        <description>Recent content on Sivaram Sajeev</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ssajeev.tech/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hugo theme first looks</title>
+        <link>https://ssajeev.tech/p/hugo-theme-first-looks/</link>
+        <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://ssajeev.tech/p/hugo-theme-first-looks/</guid>
+        <description>&lt;img src="https://shebytes.io/img/host_free_site/gopher_hugo.png" alt="Featured image of post Hugo theme first looks" /&gt;&lt;p&gt;Hugo has been amazing so far and the theme I&amp;rsquo;ve chosen is &lt;code&gt;Hugo.386&lt;/code&gt;. I just loved the old windows look.&lt;/p&gt;
+&lt;p&gt;Plus, I&amp;rsquo;ve been trying out the stack theme as well. &amp;ldquo;&lt;em&gt;Theme Stack designed by Jimmy&lt;/em&gt;&amp;rdquo;. It&amp;rsquo;s great to have so many themes to choose from.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Jekyll to Hugo</title>
+        <link>https://ssajeev.tech/p/jekyll-to-hugo/</link>
+        <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://ssajeev.tech/p/jekyll-to-hugo/</guid>
+        <description>&lt;img src="https://forestry.io/uploads/2018/01/hugo-vs-jekyll-totals.jpg" alt="Featured image of post Jekyll to Hugo" /&gt;&lt;p&gt;So I just decided to try out *** Hugo **** for a change. The migration has been manual but easy. Thanks to the documentation. Most impressive part is the speed, of course.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d like to add that it&amp;rsquo;s better to keep the front matter to the minimum and avoid unneccessary customizations to keep your site portable between different themes as well as engines. Also I&amp;rsquo;m doing this via a better deployment model(I guess!) which is going to be the topic of another blog.&lt;/p&gt;
+&lt;p&gt;*** Cheers ***&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Changed Jekyll theme to end2end!</title>
+        <link>https://ssajeev.tech/p/changed-jekyll-theme-to-end2end/</link>
+        <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://ssajeev.tech/p/changed-jekyll-theme-to-end2end/</guid>
+        <description>&lt;img src="https://raw.githubusercontent.com/nandomoreirame/end2end/master/screenshot.png" alt="Featured image of post Changed Jekyll theme to end2end!" /&gt;&lt;p&gt;Last week, I suddenly felt the urge to change my personal web hosted in github. I had it running for quite sometime with &lt;code&gt;HTML5 UP&lt;/code&gt; but it was time for some change!!&lt;/p&gt;
+&lt;p&gt;Then I decided to try out Jekyll themes as Github supports it. Turns out there is a huge collection of themes on their site. Check out the &lt;a class=&#34;link&#34; href=&#34;http://jekyllrb.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll.&lt;/p&gt;
+&lt;p&gt;Couple of themes caught my eyes. &lt;code&gt;end2end&lt;/code&gt; is what I decided to try. It&amp;rsquo;s been so easy to set up and get started with. Kudos to [Fernando Moreira] &lt;a class=&#34;link&#34; href=&#34;https://github.com/nandomoreirame&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Fernando-Moreira&lt;/a&gt;, the creator of the theme.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Tried out wordpress</title>
+        <link>https://ssajeev.tech/p/tried-out-wordpress/</link>
+        <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://ssajeev.tech/p/tried-out-wordpress/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        <item>
+        <title>Embracing GitOps</title>
+        <link>https://ssajeev.tech/p/embracing-gitops/</link>
+        <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://ssajeev.tech/p/embracing-gitops/</guid>
+        <description>&lt;img src="https://miro.medium.com/max/2680/1*PXYkUt_-XNkOFSk3F-KxbQ.png" alt="Featured image of post Embracing GitOps" /&gt;&lt;p&gt;GitOps assumes that a ** version control system (VCS) ** is the only source of truth. It&amp;rsquo;s a subset of DevOps movement witnessing rapid adoption and because of all
+the good reasons.&lt;/p&gt;
+&lt;p&gt;GitOps is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD, and applies them to infrastructure automation.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://about.gitlab.com/topics/gitops/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitLab docs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I 💓 the equation as well. &lt;code&gt;GitOps = IaC + MRs + CI/CD&lt;/code&gt;.    It Makes lot of of sense.&lt;/p&gt;
+&lt;p&gt;The two fundamental principles of GitOps are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Everything is described as code&lt;/li&gt;
+&lt;li&gt;Git is the only source of truth&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Got 2x OCI certified</title>
+        <link>https://ssajeev.tech/p/got-2x-oci-certified/</link>
+        <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://ssajeev.tech/p/got-2x-oci-certified/</guid>
+        <description>&lt;img src="https://ssajeev.tech/ociCert.jpeg" alt="Featured image of post Got 2x OCI certified" /&gt;&lt;p&gt;Extremely glad to announce that I got 2 OCI certs, Cloud architect associate and Foundations associate. Big &lt;code&gt;Thanks&lt;/code&gt; to Oracle for announcing FREE take for most of their cloud and few of the DB certs during these tough times.&lt;/p&gt;
+&lt;p&gt;Have a look at my achievement.&lt;/p&gt;
+&lt;p&gt;Though I didn&amp;rsquo;t have much hands-on experience on OCI while taking the exams, the AWS/Azure experience helped big time. I feel it&amp;rsquo;s more about understanding the cloud computing concepts and solving real world problems for the end users than focussing on any particular implementation of computing.&lt;/p&gt;
+&lt;p&gt;Let me know your thoughts. Cheers.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ssajeev.tech/ociCert.jpeg&#34; alt=&#34;OCI&#34;  /&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Cisco&#39;s DevOps certs</title>
+        <link>https://ssajeev.tech/p/ciscos-devops-certs/</link>
+        <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://ssajeev.tech/p/ciscos-devops-certs/</guid>
+        <description>&lt;img src="https://sdtimes.com/wp-content/uploads/2019/01/eGVNy9b7_400x400.jpg" alt="Featured image of post Cisco&#39;s DevOps certs" /&gt;&lt;p&gt;So in addition to the existing popular Ops certifications like CCNA,CCNP etc, Cisco announced new DevOps certifications ** DevNet ** emphasising on network programmability and automation.&lt;/p&gt;
+&lt;p&gt;The career path looks like this &lt;code&gt;DevNet Associate -&amp;gt; Specialist -&amp;gt; Professional -&amp;gt; Expert&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;The certification tests the candidate’s knowledge of software development and design, including the following topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Application development and security&lt;/li&gt;
+&lt;li&gt;Cisco platforms and development&lt;/li&gt;
+&lt;li&gt;Infrastructure and automation&lt;/li&gt;
+&lt;li&gt;Understanding and using APIs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Started OCI infra with Terraform</title>
+        <link>https://ssajeev.tech/p/started-oci-infra-with-terraform/</link>
+        <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://ssajeev.tech/p/started-oci-infra-with-terraform/</guid>
+        <description>&lt;img src="https://ssajeev.tech/ociCert.jpeg" alt="Featured image of post Started OCI infra with Terraform" /&gt;&lt;p&gt;At work, largely we use vmware for our VMs though AWS,Azure and GCP are there in place. OCI certainly is a new comer in the arena but couple of their features are worth trying out. Firstly, I like the way IAM is handled with SQL like syntax (Not a big fan of writing JSON documents with a list full of permissions). The concept of &lt;strong&gt;compartment&lt;/strong&gt; is also good but it could stand in the way of automation especially when starting out. (I mean the errors involving compartments and permissions could be tricky to identify). Ofcourse, DBs are the area where they really shine as they are supposed to be. Take the OCI architect exam, you&amp;rsquo;ll get to know that Oracle cares more about DB than any other part of the infra.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ssajeev.tech/ociCert.jpeg&#34; alt=&#34;OCI&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;OCI provider for turned out to be really easy to start with unlike what I had thought. Just following the official doc plus their github repo got me started. I used Oracle Linux to as the image and keep in mind that they keep the firewall running. I spent a little time analyzing where the traffic was being blocked before actually finding that out.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>The DevOps vs SRE debate</title>
+        <link>https://ssajeev.tech/p/the-devops-vs-sre-debate/</link>
+        <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+        
+        <guid>https://ssajeev.tech/p/the-devops-vs-sre-debate/</guid>
+        <description>&lt;img src="https://ssajeev.tech/Devops_vs_SRE.png" alt="Featured image of post The DevOps vs SRE debate" /&gt;&lt;p&gt;The DevOps movement began because developers would write code with little understanding of how it would run in production. They would throw this code over the proverbial wall to the operations team, which would be responsible for keeping the applications up and running. This often resulted in tension between the two groups, as each group’s priorities were misaligned with the needs of the business. DevOps emerged as a culture and a set of practices that aims to reduce the gaps between software development and software operation. However, the DevOps movement does not explicitly define how to succeed in these areas. In this way, DevOps is like an abstract class or interface in programming. It defines the overall behavior of the system, but the implementation details are left up to the author.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ssajeev.tech/Devops_vs_SRE.png&#34; alt=&#34;DevOps-vs-SRE&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;SRE, which evolved at Google to meet internal needs in the early 2000s independently of the DevOps movement, happens to embody the philosophies of DevOps, but has a much more prescriptive way of measuring and achieving reliability through engineering and operations work. In other words, SRE prescribes how to succeed in the various DevOps areas. For example, the table below illustrates the five DevOps pillars and the corresponding SRE practices&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;If you think of DevOps like an interface in a programming language, &lt;code&gt;class SRE implements DevOps&lt;/code&gt;. While the SRE program did not explicitly set out to satisfy the DevOps interface, both disciplines independently arrived at a similar set of conclusions. But just like in programming, classes often include more behavior than just what their interface defines, or they might implement multiple interfaces. SRE includes additional practices and recommendations that are not necessarily part of the DevOps interface.&lt;/p&gt;
+&lt;p&gt;DevOps and SRE are not two competing methods for software development and operations, but rather close friends designed to break down organizational barriers to deliver better software faster. If you prefer books, check out How SRE relates to DevOps (Betsy Beyer, Niall Richard Murphy, Liz Fong-Jones) for a more thorough explanation&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;disclaimer: Above stuff is obtained by googling and from couple of blogs and youtube while I was trying to understand the fundamental differences between the 2 job roles&lt;/code&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>What is Kubernetes?</title>
+        <link>https://ssajeev.tech/p/what-is-kubernetes/</link>
+        <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+        
+        <guid>https://ssajeev.tech/p/what-is-kubernetes/</guid>
+        <description>&lt;img src="https://ssajeev.tech/gopherKubernetes.png" alt="Featured image of post What is Kubernetes?" /&gt;&lt;p&gt;Kubernetes (commonly referred to as K8s) is an orchestration engine for container technologies such as Docker and rkt that is taking over the DevOps scene in the last couple of years. It is already available on Azure and Google Cloud as a managed service.&lt;/p&gt;
+&lt;p&gt;Kubernetes can speed up the development process by making easy, automated deployments, updates (rolling-update) and by managing our apps and services with almost zero downtime. It also provides self-healing. Kubernetes can detect and restart services when a process crashes inside the container. Kubernetes is originally developed by Google, it is open-sourced since its launch and managed by a large community of contributors.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ssajeev.tech/gopherKubernetes.png&#34; alt=&#34;k8s&#34;  /&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;a CLI tool for Kubernetes&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;The main machine that controls the nodes
+Main entrypoint for all administrative tasks
+It handles the orchestration of the worker nodes&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;It is a worker machine in Kubernetes (used to be known as minion)
+This machine performs the requested tasks. Each Node is controlled by the Master Node
+Runs containers inside pods
+This is where the Docker engine runs and takes care of downloading images and starting containers&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Primary node agent
+Ensures that containers are running and healthy
+kubernetes-kubelet&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;A Pod can host multiple containers and storage volumes
+Pods are instances of Deployments (see Deployment)
+One Deployment can have multiple pods
+With Horizontal Pod Autoscaling, Pods of a Deployment can be automatically started and halted based on CPU usage
+Containers within the same pod have access to shared volumes
+Each Pod has its unique IP Address within the cluster
+Pods are up and running until someone (or a controller) destroys them
+Any data saved inside the Pod will disappear without a persistent storage&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;A deployment is a blueprint for the Pods to be create (see Pod)
+Handles update of its respective Pods.
+A deployment will create a Pod by it’s spec from the template.
+Their target is to keep the Pods running and update them (with rolling-update) in a more controlled way.
+Pod(s) resource usage can be specified in the deployment.
+Deployment can scale up replicas of Pods.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;A Secret is an object, where we can store sensitive informations like usernames and passwords.
+In the secret files, values are base64 encoded.
+To use a secret, we need to refer to the secret in our Pod.
+Or we can put it inside a volume and mount that to the container.
+Secrets are not encrypted by default. For encryption we need to create an EncryptionConfig.
+You can read more about encryption here&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;A service is responsible for making our Pods discoverable inside the network or exposing them to the internet
+A Service identifies Pods by its LabelSelector
+There are 3 types of services:&lt;/p&gt;
+&lt;p&gt;ClusterIP:
+– The deployment is only visible inside the cluster
+– The deployment gets an internal ClusterIP assigned to it
+– Traffic is load balanced between the Pods of the deployment&lt;/p&gt;
+&lt;p&gt;Node Port:
+– The deployment is visible inside the cluster
+– The deployment is bound to a port of the Master Node
+– Each Node will proxy that port to your Service
+– The service is available at http(s)://&lt;!-- raw HTML omitted --&gt;:&lt;!-- raw HTML omitted --&gt;/
+– Traffic is load balanced between the Pods of the deployment&lt;/p&gt;
+&lt;p&gt;Load Balancer:
+– The deployment gets a Public IP address assigned
+– The service is available at http(s)://&lt;!-- raw HTML omitted --&gt;:&amp;lt;80||42&amp;gt;/
+– Traffic is load balanced between the Pods of the deployment&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

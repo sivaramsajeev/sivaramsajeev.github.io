@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architect on Sivaram Sajeev</title>
+    <link>https://ssajeev.tech/tags/architect/</link>
+    <description>Recent content in Architect on Sivaram Sajeev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ssajeev.tech/tags/architect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Got 2x OCI certified</title>
+      <link>https://ssajeev.tech/p/got-2x-oci-certified/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/p/got-2x-oci-certified/</guid>
+      <description>Extremely glad to announce that I got 2 OCI certs, Cloud architect associate and Foundations associate. Big Thanks to Oracle for announcing FREE take for most of their cloud and few of the DB certs during these tough times.
+Have a look at my achievement.
+Though I didn&amp;rsquo;t have much hands-on experience on OCI while taking the exams, the AWS/Azure experience helped big time. I feel it&amp;rsquo;s more about understanding the cloud computing concepts and solving real world problems for the end users than focussing on any particular implementation of computing.</description>
+    </item>
+    
+  </channel>
+</rss>

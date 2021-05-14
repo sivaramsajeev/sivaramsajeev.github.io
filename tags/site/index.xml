@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>site on Sivaram Sajeev</title>
+    <link>https://ssajeev.tech/tags/site/</link>
+    <description>Recent content in site on Sivaram Sajeev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ssajeev.tech/tags/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Changed Jekyll theme to end2end!</title>
+      <link>https://ssajeev.tech/p/changed-jekyll-theme-to-end2end/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/p/changed-jekyll-theme-to-end2end/</guid>
+      <description>Last week, I suddenly felt the urge to change my personal web hosted in github. I had it running for quite sometime with HTML5 UP but it was time for some change!!
+Then I decided to try out Jekyll themes as Github supports it. Turns out there is a huge collection of themes on their site. Check out the Jekyll docs for more info on how to get the most out of Jekyll.</description>
+    </item>
+    
+    <item>
+      <title>Tried out wordpress</title>
+      <link>https://ssajeev.tech/p/tried-out-wordpress/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/p/tried-out-wordpress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

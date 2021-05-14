@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IaC on Sivaram Sajeev</title>
+    <link>https://ssajeev.tech/tags/iac/</link>
+    <description>Recent content in IaC on Sivaram Sajeev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://ssajeev.tech/tags/iac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Started OCI infra with Terraform</title>
+      <link>https://ssajeev.tech/p/started-oci-infra-with-terraform/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/p/started-oci-infra-with-terraform/</guid>
+      <description>At work, largely we use vmware for our VMs though AWS,Azure and GCP are there in place. OCI certainly is a new comer in the arena but couple of their features are worth trying out. Firstly, I like the way IAM is handled with SQL like syntax (Not a big fan of writing JSON documents with a list full of permissions). The concept of compartment is also good but it could stand in the way of automation especially when starting out.</description>
+    </item>
+    
+  </channel>
+</rss>

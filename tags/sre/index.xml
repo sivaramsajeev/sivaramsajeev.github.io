@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SRE on Sivaram Sajeev</title>
+    <link>https://ssajeev.tech/tags/sre/</link>
+    <description>Recent content in SRE on Sivaram Sajeev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://ssajeev.tech/tags/sre/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The DevOps vs SRE debate</title>
+      <link>https://ssajeev.tech/p/the-devops-vs-sre-debate/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/p/the-devops-vs-sre-debate/</guid>
+      <description>The DevOps movement began because developers would write code with little understanding of how it would run in production. They would throw this code over the proverbial wall to the operations team, which would be responsible for keeping the applications up and running. This often resulted in tension between the two groups, as each group’s priorities were misaligned with the needs of the business. DevOps emerged as a culture and a set of practices that aims to reduce the gaps between software development and software operation.</description>
+    </item>
+    
+    <item>
+      <title>What is Kubernetes?</title>
+      <link>https://ssajeev.tech/p/what-is-kubernetes/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/p/what-is-kubernetes/</guid>
+      <description>Kubernetes (commonly referred to as K8s) is an orchestration engine for container technologies such as Docker and rkt that is taking over the DevOps scene in the last couple of years. It is already available on Azure and Google Cloud as a managed service.
+Kubernetes can speed up the development process by making easy, automated deployments, updates (rolling-update) and by managing our apps and services with almost zero downtime. It also provides self-healing.</description>
+    </item>
+    
+  </channel>
+</rss>
