@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <title>SIVARAM SAJEEV</title>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="theme-color" content="#000084" />
+    <link rel="icon" href="https://ssajeev.tech//favicon.ico">
+    <link rel="canonical" href="https://ssajeev.tech/">
+    
+    
+</head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+        <div class="container">
+            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"></button>
+            <a class="brand" href="https://ssajeev.tech/">SIVARAM SAJEEV</a>
+            <div class="nav-collapse collapse">
+                <ul class="nav">
+                    
+                    
+                        
+                            <li>
+                                <a href="/post/about/">
+                                    
+                                    <span>About</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/post/">
+                                    
+                                    <span>Posts</span>
+                                </a>
+                            </li>
+                        
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav><div id="content" class="container">
+
+<div class="row-fluid navmargin">
+    <div class="page-header">
+        <h1>Started OCI infra with Terraform - Sat, May 18, 2019</h1>
+    </div>
+    <p class="lead"></p>
+    <p>At work, largely we use vmware for our VMs though AWS,Azure and GCP are there in place. OCI certainly is a new comer in the arena but couple of their features are worth trying out. Firstly, I like the way IAM is handled with SQL like syntax (Not a big fan of writing JSON documents with a list full of permissions). The concept of <strong>compartment</strong> is also good but it could stand in the way of automation especially when starting out. (I mean the errors involving compartments and permissions could be tricky to identify). Ofcourse, DBs are the area where they really shine as they are supposed to be. Take the OCI architect exam, you&rsquo;ll get to know that Oracle cares more about DB than any other part of the infra.</p>
+<p>OCI provider for turned out to be really easy to start with unlike what I had thought. Just following the official doc plus their github repo got me started. I used Oracle Linux to as the image and keep in mind that they keep the firewall running. I spent a little time analyzing where the traffic was being blocked before actually finding that out.</p>
+
+    <h4><a href="https://ssajeev.tech/">Back to Home</a></h4>
+</div>
+
+
+        </div><footer class="container">
+    <hr class="soften">
+    <p>
+&copy; 
+
+    
+
+<span id="thisyear">2021</span>
+
+    | DevOps | SRE
+
+
+</p>
+    <p class="text-center">
+        
+        <a href="https://twitter.com/sajeev_sivaram">Twitter</a> 
+        <a href="https://linkedin.com/in/sivaram-sajeev-817679158">Linkedin</a> 
+        <a href="https://github.com/sivaramsajeev">GitHub</a> 
+        
+    </p>
+</footer>
+
+</body><link rel="stylesheet" href="/css/bootstrap.css">
+<link rel="stylesheet" href="/css/bootstrap-responsive.css">
+<link rel="stylesheet" href="/css/style.css">
+
+<script src="/js/jquery.js"></script>
+<script src="/js/bootstrap-386.js"></script>
+<script src="/js/bootstrap-transition.js"></script>
+<script src="/js/bootstrap-alert.js"></script>
+<script src="/js/bootstrap-modal.js"></script>
+<script src="/js/bootstrap-dropdown.js"></script>
+<script src="/js/bootstrap-scrollspy.js"></script>
+<script src="/js/bootstrap-tab.js"></script>
+<script src="/js/bootstrap-tooltip.js"></script>
+<script src="/js/bootstrap-popover.js"></script>
+<script src="/js/bootstrap-button.js"></script>
+<script src="/js/bootstrap-collapse.js"></script>
+<script src="/js/bootstrap-carousel.js"></script>
+<script src="/js/bootstrap-typeahead.js"></script>
+<script src="/js/bootstrap-affix.js"></script>
+<script>
+    _386 = { 
+        fastLoad: false ,
+        onePass: false , 
+        speedFactor: 1 
+    };
+
+    
+    function ThisYear() {
+        document.getElementById('thisyear').innerHTML = new Date().getFullYear();
+    };
+</script></html>

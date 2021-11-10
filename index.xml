@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SIVARAM SAJEEV</title>
+    <link>https://ssajeev.tech/</link>
+    <description>Recent content on SIVARAM SAJEEV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ssajeev.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo theme first looks</title>
+      <link>https://ssajeev.tech/post/first-looks-hugo/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/post/first-looks-hugo/</guid>
+      <description>Hugo has been amazing so far and the theme I&amp;rsquo;ve chosen is Hugo.386. I just loved the old windows look. I guess I&amp;rsquo;ll keep the theme for a while.</description>
+    </item>
+    
+    <item>
+      <title>Jekyll to Hugo</title>
+      <link>https://ssajeev.tech/post/jekyll-to-hugo/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/post/jekyll-to-hugo/</guid>
+      <description>So I just decided to try out *** Hugo **** for a change. The migration has been manual but easy. Thanks to the documentation. Most impressive part is the speed, of course.
+I&amp;rsquo;d like to add that it&amp;rsquo;s better to keep the front matter to the minimum and avoid unneccessary customizations to keep your site portable between different themes as well as engines. Also I&amp;rsquo;m doing this via a better deployment model(I guess!</description>
+    </item>
+    
+    <item>
+      <title>Changed Jekyll theme to end2end!</title>
+      <link>https://ssajeev.tech/post/changed-jekyll-theme-to-end2end/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/post/changed-jekyll-theme-to-end2end/</guid>
+      <description>Last week, I suddenly felt the urge to change my personal web hosted in github. I had it running for quite sometime with HTML5 UP but it was time for some change!!
+Then I decided to try out Jekyll themes as Github supports it. Turns out there is a huge collection of themes on their site. Check out the Jekyll docs for more info on how to get the most out of Jekyll.</description>
+    </item>
+    
+    <item>
+      <title>Tried out wordpress</title>
+      <link>https://ssajeev.tech/post/tried-wordpress/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/post/tried-wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Got 2x OCI certified</title>
+      <link>https://ssajeev.tech/post/became-2x-oci-certified/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/post/became-2x-oci-certified/</guid>
+      <description>Extremely glad to announce that I got 2 OCI certs, Cloud architect associate and Foundations associate. Big Thanks to Oracle for announcing FREE take for most of their cloud and few of the DB certs during these tough times.
+Have a look at my achievement.
+Though I didn&amp;rsquo;t have much hands-on experience on OCI while taking the exams, the AWS/Azure experience helped big time. I feel it&amp;rsquo;s more about understanding the cloud computing concepts and solving real world problems for the end users than focussing on any particular implementation of computing.</description>
+    </item>
+    
+    <item>
+      <title>Started OCI infra with Terraform</title>
+      <link>https://ssajeev.tech/post/started-oci-with-terraform/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/post/started-oci-with-terraform/</guid>
+      <description>At work, largely we use vmware for our VMs though AWS,Azure and GCP are there in place. OCI certainly is a new comer in the arena but couple of their features are worth trying out. Firstly, I like the way IAM is handled with SQL like syntax (Not a big fan of writing JSON documents with a list full of permissions). The concept of compartment is also good but it could stand in the way of automation especially when starting out.</description>
+    </item>
+    
+    <item>
+      <title>The DevOps vs SRE debate</title>
+      <link>https://ssajeev.tech/post/the-devops-vs-sre/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/post/the-devops-vs-sre/</guid>
+      <description>The DevOps movement began because developers would write code with little understanding of how it would run in production. They would throw this code over the proverbial wall to the operations team, which would be responsible for keeping the applications up and running. This often resulted in tension between the two groups, as each group’s priorities were misaligned with the needs of the business. DevOps emerged as a culture and a set of practices that aims to reduce the gaps between software development and software operation.</description>
+    </item>
+    
+    <item>
+      <title>What is Kubernetes?</title>
+      <link>https://ssajeev.tech/post/what-is-k8s/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/post/what-is-k8s/</guid>
+      <description>Kubernetes (commonly referred to as K8s) is an orchestration engine for container technologies such as Docker and rkt that is taking over the DevOps scene in the last couple of years. It is already available on Azure and Google Cloud as a managed service.
+Kubernetes can speed up the development process by making easy, automated deployments, updates (rolling-update) and by managing our apps and services with almost zero downtime. It also provides self-healing.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://ssajeev.tech/post/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/post/about/</guid>
+      <description>Bonjour à tous 👋   💬 Ask me about DevOps, SRE, Coding etc.
+  🔭 Currently working as a Senior SRE at 🔥👁
+  📫 How to reach me: @sivaramsajeev
+  </description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://ssajeev.tech/post/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/post/readme/</guid>
+      <description>Bonjour à tous 👋👋👋   💬 Ask me about DevOps, SRE, Coding etc.
+  🔭 Currently working as a Senior SRE at 🔥👁
+  📫 How to reach me: @sivaramsajeev
+  </description>
+    </item>
+    
+  </channel>
+</rss>

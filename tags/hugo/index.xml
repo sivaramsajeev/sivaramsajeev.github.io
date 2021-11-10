@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on SIVARAM SAJEEV</title>
+    <link>https://ssajeev.tech/tags/hugo/</link>
+    <description>Recent content in hugo on SIVARAM SAJEEV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ssajeev.tech/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo theme first looks</title>
+      <link>https://ssajeev.tech/post/first-looks-hugo/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/post/first-looks-hugo/</guid>
+      <description>Hugo has been amazing so far and the theme I&amp;rsquo;ve chosen is Hugo.386. I just loved the old windows look. I guess I&amp;rsquo;ll keep the theme for a while.</description>
+    </item>
+    
+    <item>
+      <title>Jekyll to Hugo</title>
+      <link>https://ssajeev.tech/post/jekyll-to-hugo/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/post/jekyll-to-hugo/</guid>
+      <description>So I just decided to try out *** Hugo **** for a change. The migration has been manual but easy. Thanks to the documentation. Most impressive part is the speed, of course.
+I&amp;rsquo;d like to add that it&amp;rsquo;s better to keep the front matter to the minimum and avoid unneccessary customizations to keep your site portable between different themes as well as engines. Also I&amp;rsquo;m doing this via a better deployment model(I guess!</description>
+    </item>
+    
+  </channel>
+</rss>

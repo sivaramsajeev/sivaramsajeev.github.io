@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>golang on SIVARAM SAJEEV</title>
+    <link>https://ssajeev.tech/tags/golang/</link>
+    <description>Recent content in golang on SIVARAM SAJEEV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ssajeev.tech/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo theme first looks</title>
+      <link>https://ssajeev.tech/post/first-looks-hugo/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ssajeev.tech/post/first-looks-hugo/</guid>
+      <description>Hugo has been amazing so far and the theme I&amp;rsquo;ve chosen is Hugo.386. I just loved the old windows look. I guess I&amp;rsquo;ll keep the theme for a while.</description>
+    </item>
+    
+  </channel>
+</rss>

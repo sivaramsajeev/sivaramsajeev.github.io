@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <title>SIVARAM SAJEEV</title>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="theme-color" content="#000084" />
+    <link rel="icon" href="https://ssajeev.tech//favicon.ico">
+    <link rel="canonical" href="https://ssajeev.tech/">
+    
+    
+</head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+        <div class="container">
+            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"></button>
+            <a class="brand" href="https://ssajeev.tech/">SIVARAM SAJEEV</a>
+            <div class="nav-collapse collapse">
+                <ul class="nav">
+                    
+                    
+                        
+                            <li>
+                                <a href="/post/about/">
+                                    
+                                    <span>About</span>
+                                </a>
+                            </li>
+                        
+                    
+                        
+                            <li>
+                                <a href="/post/">
+                                    
+                                    <span>Posts</span>
+                                </a>
+                            </li>
+                        
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav><div id="content" class="container">
+
+<div class="row-fluid navmargin">
+    <div class="page-header">
+        <h1>What is Kubernetes? - Wed, May 31, 2017</h1>
+    </div>
+    <p class="lead"></p>
+    <p>Kubernetes (commonly referred to as K8s) is an orchestration engine for container technologies such as Docker and rkt that is taking over the DevOps scene in the last couple of years. It is already available on Azure and Google Cloud as a managed service.</p>
+<p>Kubernetes can speed up the development process by making easy, automated deployments, updates (rolling-update) and by managing our apps and services with almost zero downtime. It also provides self-healing. Kubernetes can detect and restart services when a process crashes inside the container. Kubernetes is originally developed by Google, it is open-sourced since its launch and managed by a large community of contributors.</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>a CLI tool for Kubernetes</p>
+<!-- raw HTML omitted -->
+<p>The main machine that controls the nodes
+Main entrypoint for all administrative tasks
+It handles the orchestration of the worker nodes</p>
+<!-- raw HTML omitted -->
+<p>It is a worker machine in Kubernetes (used to be known as minion)
+This machine performs the requested tasks. Each Node is controlled by the Master Node
+Runs containers inside pods
+This is where the Docker engine runs and takes care of downloading images and starting containers</p>
+<!-- raw HTML omitted -->
+<p>Primary node agent
+Ensures that containers are running and healthy
+kubernetes-kubelet</p>
+<!-- raw HTML omitted -->
+<p>A Pod can host multiple containers and storage volumes
+Pods are instances of Deployments (see Deployment)
+One Deployment can have multiple pods
+With Horizontal Pod Autoscaling, Pods of a Deployment can be automatically started and halted based on CPU usage
+Containers within the same pod have access to shared volumes
+Each Pod has its unique IP Address within the cluster
+Pods are up and running until someone (or a controller) destroys them
+Any data saved inside the Pod will disappear without a persistent storage</p>
+<!-- raw HTML omitted -->
+<p>A deployment is a blueprint for the Pods to be create (see Pod)
+Handles update of its respective Pods.
+A deployment will create a Pod by it’s spec from the template.
+Their target is to keep the Pods running and update them (with rolling-update) in a more controlled way.
+Pod(s) resource usage can be specified in the deployment.
+Deployment can scale up replicas of Pods.</p>
+<!-- raw HTML omitted -->
+<p>A Secret is an object, where we can store sensitive informations like usernames and passwords.
+In the secret files, values are base64 encoded.
+To use a secret, we need to refer to the secret in our Pod.
+Or we can put it inside a volume and mount that to the container.
+Secrets are not encrypted by default. For encryption we need to create an EncryptionConfig.
+You can read more about encryption here</p>
+<!-- raw HTML omitted -->
+<p>A service is responsible for making our Pods discoverable inside the network or exposing them to the internet
+A Service identifies Pods by its LabelSelector
+There are 3 types of services:</p>
+<p>ClusterIP:
+– The deployment is only visible inside the cluster
+– The deployment gets an internal ClusterIP assigned to it
+– Traffic is load balanced between the Pods of the deployment</p>
+<p>Node Port:
+– The deployment is visible inside the cluster
+– The deployment is bound to a port of the Master Node
+– Each Node will proxy that port to your Service
+– The service is available at http(s)://<!-- raw HTML omitted -->:<!-- raw HTML omitted -->/
+– Traffic is load balanced between the Pods of the deployment</p>
+<p>Load Balancer:
+– The deployment gets a Public IP address assigned
+– The service is available at http(s)://<!-- raw HTML omitted -->:&lt;80||42&gt;/
+– Traffic is load balanced between the Pods of the deployment</p>
+
+    <h4><a href="https://ssajeev.tech/">Back to Home</a></h4>
+</div>
+
+
+        </div><footer class="container">
+    <hr class="soften">
+    <p>
+&copy; 
+
+    
+
+<span id="thisyear">2021</span>
+
+    | DevOps | SRE
+
+
+</p>
+    <p class="text-center">
+        
+        <a href="https://twitter.com/sajeev_sivaram">Twitter</a> 
+        <a href="https://linkedin.com/in/sivaram-sajeev-817679158">Linkedin</a> 
+        <a href="https://github.com/sivaramsajeev">GitHub</a> 
+        
+    </p>
+</footer>
+
+</body><link rel="stylesheet" href="/css/bootstrap.css">
+<link rel="stylesheet" href="/css/bootstrap-responsive.css">
+<link rel="stylesheet" href="/css/style.css">
+
+<script src="/js/jquery.js"></script>
+<script src="/js/bootstrap-386.js"></script>
+<script src="/js/bootstrap-transition.js"></script>
+<script src="/js/bootstrap-alert.js"></script>
+<script src="/js/bootstrap-modal.js"></script>
+<script src="/js/bootstrap-dropdown.js"></script>
+<script src="/js/bootstrap-scrollspy.js"></script>
+<script src="/js/bootstrap-tab.js"></script>
+<script src="/js/bootstrap-tooltip.js"></script>
+<script src="/js/bootstrap-popover.js"></script>
+<script src="/js/bootstrap-button.js"></script>
+<script src="/js/bootstrap-collapse.js"></script>
+<script src="/js/bootstrap-carousel.js"></script>
+<script src="/js/bootstrap-typeahead.js"></script>
+<script src="/js/bootstrap-affix.js"></script>
+<script>
+    _386 = { 
+        fastLoad: false ,
+        onePass: false , 
+        speedFactor: 1 
+    };
+
+    
+    function ThisYear() {
+        document.getElementById('thisyear').innerHTML = new Date().getFullYear();
+    };
+</script></html>

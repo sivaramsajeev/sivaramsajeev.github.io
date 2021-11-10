@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/golang/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/hugo/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/post/first-looks-hugo/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/post/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/</loc>
+    <lastmod>2021-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/jekyll/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/post/jekyll-to-hugo/</loc>
+    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/post/changed-jekyll-theme-to-end2end/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/site/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/blog/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/post/tried-wordpress/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/wordpress/</loc>
+    <lastmod>2020-10-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/architect/</loc>
+    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/cloud/</loc>
+    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/post/became-2x-oci-certified/</loc>
+    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/oci/</loc>
+    <lastmod>2020-05-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/devops/</loc>
+    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/iac/</loc>
+    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/post/started-oci-with-terraform/</loc>
+    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/terraform/</loc>
+    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/sre/</loc>
+    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/post/the-devops-vs-sre/</loc>
+    <lastmod>2018-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/tags/kubernetes/</loc>
+    <lastmod>2017-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/post/what-is-k8s/</loc>
+    <lastmod>2017-05-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/post/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/post/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ssajeev.tech/categories/</loc>
+  </url>
+  
+</urlset>
